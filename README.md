@@ -2,7 +2,8 @@
 
 ![Chat App Screenshot](screenshots/typescript-chat-app.png)
 
-## Overview
+## Live demo
+https://amiraallagui.github.io/typescript-chat-app/
 
 This is a real-time chat application built using TypeScript and ChatEngine. The app enables users to engage in dynamic conversations in real-time, with features such as user authentication and message history.
 
